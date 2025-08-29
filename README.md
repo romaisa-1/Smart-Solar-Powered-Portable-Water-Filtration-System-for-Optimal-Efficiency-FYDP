@@ -1,2 +1,2 @@
 # Smart-Solar-Powered-Portable-Water-Filtration-System-for-Optimal-Efficiency-FYDP
-Portable solar-powered water filtration system for purifying river and impure water efficiently and sustainably.
+A solar-powered portable water filtration system for river and impure water. Equipped with sensors to monitor water quality at the inlet and an automated control system that adjusts motor speed for optimal purification efficiency.
